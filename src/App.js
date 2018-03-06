@@ -16,7 +16,7 @@ class App extends Component {
         <body>
           <div className="container-um">
           <h1>Mateus Guedes</h1>
-          <h2>A <div style={{display: 'inline-block'}}>FRONT-END</div> DEVELOPER THAT ARE IN CONSTANT DEVELOPMENT< br />AND<br />TRYING TO BE KNOW FOR THE KNOWLEDGE THAT I HAVE.</h2>
+          <h2>A <div style={{display: 'inline-block'}}>FRONT-END</div> DEVELOPER THAT ARE IN CONSTANT DEVELOPMENT< br />AND<br />TRYING TO BE KNOWN FOR THE KNOWLEDGE THAT I HAVE.</h2>
             <Particles 
                 params={{
                   particles: {
