@@ -139,7 +139,7 @@ class App extends Component {
             <div className="aboutme"><h1>ABOUT ME</h1></div>
             <div className="aboutme-text">
                 <p>
-                  My name is Gregory Assasie. I’m a self-taught web developer. I build beautiful, 
+                  My name is Mateus Guedes da Conceição. I’m a self-taught web developer. I build beautiful, 
                   usable web Applications using best practices and the latest W3C web standards. 
                   I specialize in front-end development, user experience using modern tools in the build process. 
                   I tasked myself to find a passion and that is how i got into Web Development. 
