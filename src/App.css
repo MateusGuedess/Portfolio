@@ -82,7 +82,7 @@
 }
 
 .container-dois {
-  padding: 5% 0% 5% 0% ;
+  padding: 5% 0% 15% 0%;
   display: inline-block;
   background: #fafafa;
 }
@@ -129,6 +129,55 @@
   font-weight: 700;
 }
 
+.github a {
+  text-decoration: none;
+}
+
+.github i {
+  font-size: 200px;
+  color: #fafafa;
+  padding: 30px 0px;
+}
+
+.github-container {
+  background: #b14c5a;
+}
+
+.github-text {
+  display: inline-block;
+  font-size: 25px;
+  color: white;
+}
+
+.github {
+  display: inline-block;
+}
+
+.github-text p {
+  position: relative;
+  bottom: 48px;
+  left: 200px;
+}
+
+.rodape {
+  background: #fafafa;
+}
+
+.rodape p {
+  color:  #b14c5a;
+  display: inline-block;
+  position: relative;
+  right:38%;
+}
+
+.rodape i {
+  font-size: 25px;
+  color:  #b14c5a;
+  padding: 5px 5px;
+  display: inline-block;
+  position: relative;
+  left:38%;
+}
 
 /* ---- reset ---- */
 
